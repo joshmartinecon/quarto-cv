@@ -1,0 +1,479 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{enumitem}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf Joshua C. Martin}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}\href{mailto:joshua.martin@vanderbilt.edu}{joshua.martin@vanderbilt.edu} | \href{https://joshmartinecon.github.io}{\includegraphics[width=0.15in]{globe.png}} | \href{https://twitter.com/JoshMartinEcon}{\includegraphics[width=0.15in]{twitter-logo-1.png}} | \href{https://github.com/joshmartinecon}{\includegraphics[width=0.15in]{github.png}} | (713) 553-0108 | Updated: \today
+\end{center}
+\vspace{15pt}
+
+<!-- EMPLOYMENT : 1ST BULLET-->
+\begin{large}{\bf EMPLOYMENT}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Postdoctoral Researcher}\end{flushleft}
+    \begin{flushright}Jul 2023-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Vanderbilt University\end{flushleft}
+    \begin{flushright}Nashville, TN\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Center for Research on Inequality \& Health}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
+  
+  
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Dept. of Economics, LGBTQ Policy Lab}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- EMPLOYMENT : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Visiting Assistant Professor} (while ABD)\end{flushleft}
+    \begin{flushright}Jan 2021-May 2022\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Berry College\end{flushleft}
+    \begin{flushright}Mt. Berry, GA\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Dept. of Accounting, Economics \& Finance}\end{flushleft}
+    \begin{flushright}\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{7pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}{\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf West Virginia University}\end{flushleft}
+    \begin{flushright}Morgantown, WV\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Ph.D. in Economics \end{flushleft}
+    \begin{flushright}2018-2023\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Oklahoma State University}\end{flushleft}
+    \begin{flushright}Stillwater, OK\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}B.S. in Economics\end{flushleft}
+    \begin{flushright}2013-2017\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{7pt}
+
+<!-- FIELDS : 1ST BULLET-->
+\begin{large}{\bf FIELDS}
+  \vspace{3pt}
+  \hrule
+  {\bf Applied Microeconomics}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Primary}: Health, Urban \& Public \end{flushleft}
+    \begin{flushright}\textit{Secondary}: Household, Education \& Sports\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{7pt}
+
+<!-- RESEARCH : 1ST BULLET -->
+\begin{large}{\bf RESEARCH}
+  \vspace{3pt}
+  \hrule
+  {\bf Publications}
+  \vspace{-0.17cm}
+  
+  \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+    \item  Alexander Cardazzi, {\bf Joshua C. Martin} and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
+    \item Ben Luikart, Joshua C. Hall \& {\bf Joshua C. Martin} (2022) \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
+    \item {\bf Joshua C. Martin} and Joshua C. Hall (2020)  \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
+  \end{enumerate}
+\end{large}
+
+\vspace{7pt}
+
+<!-- RESEARCH : 2ND BULLET -->
+\begin{large}{\bf Working Papers}
+  \vspace{-0.17cm}
+  
+  \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+    \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Partnership Laws on Adoptions, Fostering and Family Formation in the U.S.} (with Zachary Rodriguez)
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& the Causes of School Reopenings and Enrollment: Evidence from Connecticut}
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{Human Capital, Negative Health Shocks and the Retirement Decisions of Peers: Evidence from CTE Deaths in the NFL} (with Clay Collins)
+  \end{enumerate}
+\end{large}
+
+\vspace{7pt}
+
+<!-- RESEARCH : 3RD BULLET -->
+\begin{large}{\bf Works in Progress}
+  \vspace{-0.17cm}
+  
+  \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+    \item It's a Beautiful Day in the Gayborhood: Social Acceptance \& Housing Prices in Gay Villages
+    \item Rain on Your (Pride) Parade: Mass Gatherings \& Sexually Transmitted Infections
+    \item Educated Allies: The Impact of the Great Recession on Same-Sex Marriage Legalization
+  \end{enumerate}
+\end{large}
+
+\vspace{7pt}
+
+\hrule
+
+\pagebreak
+
+<!-- TEACHING : 1ST BULLET -->
+\begin{large}{\bf TEACHING}
+  \vspace{3pt}
+  \hrule
+  {\bf Instructor of Record}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Applied Economic Research\end{flushleft}
+    \begin{flushright}Fall 2021\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Urban \& Regional Economics Research\end{flushleft}
+    \begin{flushright}Spring 2022\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Intermediate Microeconomic Theory\end{flushleft}
+    \begin{flushright}Fall 2021\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Principles of Microeconomics\end{flushleft}
+    \begin{flushright}Spring 2021, Summer 2020\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Markets \& Society\end{flushleft}
+    \begin{flushright}(8x) Spring 2022-Spring 2023\end{flushright}
+  \end{multicols}
+\end{large}
+
+<!-- TEACHING : 2ND BULLET -->
+\begin{large}
+  {\bf Teaching Assistant}
+
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Advanced Economic Theory I (PhD)\end{flushleft}
+    \begin{flushright}Fall 2021\end{flushright}
+  \end{multicols}
+
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Advanced Economic Theory II (PhD)\end{flushleft}
+    \begin{flushright}Spring 2020 \& 2021\end{flushright}
+  \end{multicols}
+
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Intermediate Microeconomic Theory\end{flushleft}
+    \begin{flushright}Fall 2019\end{flushright}
+  \end{multicols}
+
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Principles of Micreconomics\end{flushleft}
+    \begin{flushright}Fall 2018\end{flushright}
+  \end{multicols}
+
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Principles of Macroeconomics\end{flushleft}
+    \begin{flushright}Spring 2019\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- PRESENTATIONS : 1ST BULLET -->
+\begin{large}{\bf PRESENTATIONS}
+  \vspace{3pt}
+  \hrule
+  {\bf Conferences}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}American Society of Health Economists\end{flushleft}
+    \begin{flushright}2022-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Public Choice Society\end{flushleft}
+    \begin{flushright}2022-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+   \begin{multicols}{2}
+    \begin{flushleft}Association of Private Enterprise \& Education\end{flushleft}
+    \begin{flushright}2022-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Southern Economic Association Meeting\end{flushleft}
+    \begin{flushright}2021-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Society of the Economics of the Household\end{flushleft}
+    \begin{flushright}2021\end{flushright}
+  \end{multicols}
+\end{large}
+
+<!-- PRESENTATIONS : 2ND BULLET -->
+\begin{large}{\bf Invited Talks}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Florida Gulf Coast University Seminar Series\end{flushleft}
+    \begin{flushright}Spring 2023\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Vanderbilt University LGBT Policy Lab\end{flushleft}
+    \begin{flushright}Fall 2020\end{flushright}
+  \end{multicols}
+\end{large}
+
+<!-- PRESENTATIONS : 3RD BULLET -->
+\begin{large}{\bf Workshops}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Discrimination and Diversity Workshop\end{flushleft}
+    \begin{flushright}Summer 2023\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Public Policy \& Child Well-Being\end{flushleft}
+    \begin{flushright}Spring 2023\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Economic Demography\end{flushleft}
+    \begin{flushright}Spring 2023\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}AEA’s Economics of LGBTQ+ Individuals\end{flushleft}
+    \begin{flushright}Spring 2021\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}SOGI Economics Early Career Workshop\end{flushleft}
+    \begin{flushright}Fall 2020\end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{5pt}
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+* **Programming Languages** - *proficient:* R, GIS, LaTex; *intermediate:* Git, Python, Matlab, Stata
+* **Human Languages** - *proficient:* English; *intermediate:* French
+* **Skills** - *proficient:* Web Scraping; *intermediate:* Text Analysis
+
+\vspace{5pt}
+
+<!-- SERVICE -->
+\begin{large}{\bf SERVICE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+* **Referee** - Review of the Economics of the Household, Contemporary Economic Policy, Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
+* **Professional** - AEA CSQIEP Social Networking and Activities Committee
+
+\vspace{5pt}
+
+<!-- REFERENCES : 1ST BULLET -->
+\begin{large}{\bf REFERENCES}
+  \vspace{3pt}
+  \hrule
+  
+  \begin{multicols}{2}
+    \centering
+    \href{mailto:christopher.s.carpenter@vanderbilt.edu}{Kitt Carpenter} \\
+    \href{mailto:joshua.hall@mail.wvu.edu}{Joshua Hall} 
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    \textit{E. Bronson Ingram Professor of Economics} \\
+    \textit{Milan Puskar Dean and Professor of Economics}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    Vanderbilt University \\
+    West Virginia University
+  \end{multicols}
+\end{large}
+
+\vspace{2.5pt}
+
+<!-- REFERENCES : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \centering
+    \href{mailto:marcus.o.dillender@vanderbilt.edu}{Marcus Dillender} \\
+    \href{mailto:brian.beach@vanderbilt.edu}{Brian Beach} 
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    \textit{Asst. Professor of Medicine, Health, \& Society} \\
+    \textit{Associate Professor of Economics}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    Vanderbilt University \\
+    Vanderbilt University
+  \end{multicols}
+\end{large}
+
+\vspace{2.5pt}
+
+<!-- REFERENCES : 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \centering
+    \href{mailto:brad.humphreys@mail.wvu.edu}{Brad Humphreys} \\
+    \href{mailto:bmccanno@iwu.edu}{Bryan McCannon} 
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    \textit{Professor of Economics} \\
+    \textit{Dean, Professor of Economics}
+  \end{multicols}
+
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \centering
+    West Virginia University \\
+    Illinois Wesleyan University
+  \end{multicols}
+\end{large}
