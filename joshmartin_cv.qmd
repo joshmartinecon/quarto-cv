@@ -164,8 +164,8 @@ format:
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
     \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
     \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Partnership Laws on Adoptions, Fostering and Family Formation in the U.S.} (with Zachary Rodriguez)
-    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& the Causes of School Reopenings and Enrollment: Evidence from Connecticut}
-    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{Human Capital, Negative Health Shocks and the Retirement Decisions of Peers: Evidence from CTE Deaths in the NFL} (with Clay Collins)
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Teacher Union Strength, Partisianship and the Local Prevelance of COVID-19: Analyzing the Causes of School Reopening Decisions}
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{Information Shocks and Peer Effects: Evidence from CTE Deaths in Professional Sports} (with Clay Collins)
   \end{enumerate}
 \end{large}
 
@@ -176,8 +176,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item It's a Beautiful Day in the Gayborhood: Social Acceptance \& Housing Prices in Gay Villages
-    \item Rain on Your (Pride) Parade: Mass Gatherings \& Sexually Transmitted Infections
+    \item Mass Gatherings \& Sexually Transmitted Infections: Evidence from Pride Parades
+    \item Social Acceptance \& Housing Prices in Gay Villages
     \item Educated Allies: The Impact of the Great Recession on Same-Sex Marriage Legalization
   \end{enumerate}
 \end{large}
