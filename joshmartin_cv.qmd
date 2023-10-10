@@ -391,7 +391,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-* **Referee** - Review of the Economics of the Household, Contemporary Economic Policy, Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
+* **Referee** - Review of the Economics of the Household, Contemporary Economic Policy (2x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
 * **Professional** - AEA CSQIEP Social Networking and Activities Committee
 
 \vspace{5pt}
