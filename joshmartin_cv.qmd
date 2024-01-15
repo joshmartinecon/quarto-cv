@@ -134,8 +134,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Primary}: Health, Urban \& Public \end{flushleft}
-    \begin{flushright}\textit{Secondary}: Household, Education \& Sports\end{flushright}
+    \begin{flushleft}\textit{Primary}: Labor, Health \& Household \end{flushleft}
+    \begin{flushright}\textit{Secondary}: Discrimination, Sports \& Urban \end{flushright}
   \end{multicols}
 \end{large}
 
@@ -165,7 +165,8 @@ format:
     \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
     \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Partnership Laws on Adoptions, Fostering and Family Formation in the U.S.} (with Zachary Rodriguez)
     \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Teacher Union Strength, Partisianship and the Local Prevelance of COVID-19: Analyzing the Causes of School Reopening Decisions}
-    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{Information Shocks and Peer Effects: Evidence from CTE Deaths in Professional Sports} (with Clay Collins)
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{Information Shocks and Peer Effects: Evidence from CTE Deaths in Professional Sports}
+    \item Sexual Orientation, Sexual Attraction, and Income (with Christopher S. Carpenter and Hasan Shahid)
   \end{enumerate}
 \end{large}
 
@@ -176,9 +177,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item Mass Gatherings \& Sexually Transmitted Infections: Evidence from Pride Parades
-    \item Social Acceptance \& Housing Prices in Gay Villages
-    \item Educated Allies: The Impact of the Great Recession on Same-Sex Marriage Legalization
+    \item The Genesis of the Gayborhood: Social Acceptance \& Housing Premia in Gay Villages
+    \item Adopting Equality: Same-Sex Partnership Laws, Religious Discrimination and Adoptions in the U.S.
   \end{enumerate}
 \end{large}
 
@@ -258,15 +258,8 @@ format:
   \vspace{-0.17cm}
 
   \begin{multicols}{2}
-    \begin{flushleft}Principles of Micreconomics\end{flushleft}
-    \begin{flushright}Fall 2018\end{flushright}
-  \end{multicols}
-
-  \vspace{-0.17cm}
-
-  \begin{multicols}{2}
-    \begin{flushleft}Principles of Macroeconomics\end{flushleft}
-    \begin{flushright}Spring 2019\end{flushright}
+    \begin{flushleft}Principles of Microeconomics / Macroeconomics \end{flushleft}
+    \begin{flushright}Fall 2018 / Spring 2019\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -276,46 +269,7 @@ format:
 \begin{large}{\bf PRESENTATIONS}
   \vspace{3pt}
   \hrule
-  {\bf Conferences}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}American Society of Health Economists\end{flushleft}
-    \begin{flushright}2022-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Public Choice Society\end{flushleft}
-    \begin{flushright}2022-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-   \begin{multicols}{2}
-    \begin{flushleft}Association of Private Enterprise \& Education\end{flushleft}
-    \begin{flushright}2022-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Southern Economic Association Meeting\end{flushleft}
-    \begin{flushright}2021-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Society of the Economics of the Household\end{flushleft}
-    \begin{flushright}2021\end{flushright}
-  \end{multicols}
-\end{large}
-
-<!-- PRESENTATIONS : 2ND BULLET -->
-\begin{large}{\bf Invited Talks}
+  {\bf Invited Talks}
   
   \vspace{-0.17cm}
   
@@ -332,7 +286,7 @@ format:
   \end{multicols}
 \end{large}
 
-<!-- PRESENTATIONS : 3RD BULLET -->
+<!-- PRESENTATIONS : 2ND BULLET -->
 \begin{large}{\bf Workshops}
   
   \vspace{-0.17cm}
@@ -371,6 +325,52 @@ format:
   \end{multicols}
 \end{large}
 
+<!-- PRESENTATIONS : 3RD BULLET -->
+\begin{large}{\bf Conferences}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}American Society of Health Economists\end{flushleft}
+    \begin{flushright}2021-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Southern Economic Association Meeting\end{flushleft}
+    \begin{flushright}2021-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}NBER Economics of Health Fall Meeting\end{flushleft}
+    \begin{flushright}2023\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Public Choice Society\end{flushleft}
+    \begin{flushright}2021-2022\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Association of Private Enterprise \& Education\end{flushleft}
+    \begin{flushright}2022\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Society of the Economics of the Household\end{flushleft}
+    \begin{flushright}2021\end{flushright}
+  \end{multicols}
+\end{large}
+
 \vspace{5pt}
 
 <!-- SKILLS -->
@@ -391,7 +391,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-* **Referee** - Review of the Economics of the Household, Contemporary Economic Policy (2x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
+* **Referee** - Review of the Economics of the Household, Contemporary Economic Policy (3x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
 * **Professional** - AEA CSQIEP Social Networking and Activities Committee
 
 \vspace{5pt}
