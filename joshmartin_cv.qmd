@@ -163,8 +163,8 @@ format:
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
     \item $[$\textbf{Under Review}$]$ \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Partnership Laws on Adoptions and Family Formation} (with Zachary Rodriguez)
-    \item $[$\textbf{Under Review}$]$ \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic}
     \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
+    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic}
   \end{enumerate}
 \end{large}
 
