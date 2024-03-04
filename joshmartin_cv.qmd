@@ -164,6 +164,7 @@ format:
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
     \item $[$\textbf{Under Review}$]$ \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation} (with Zachary Rodriguez)
     \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
+    \item $[$\textbf{Under Review}$]$ Sexual Orientation, Sexual Attraction, and Income (with Christopher S. Carpenter and Hasan Shahid)
     \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic}
   \end{enumerate}
 \end{large}
@@ -176,7 +177,7 @@ format:
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
     \item Peer Health Shocks, Opportunity Costs, and Retirement Decisions: Evidence from Professional Athletes \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{(Previous Version)}
-    \item Sexual Orientation, Sexual Attraction, and Income (with Christopher S. Carpenter and Hasan Shahid)
+    \item Do Childcare Costs Reduce Fertility? Evidence from Same-Sex Marriage
     \item Chasing Rainbows: Social Acceptance \& Housing-Price Premia in Gayborhoods (with João Tampellini)
   \end{enumerate}
 \end{large}
@@ -229,6 +230,8 @@ format:
   \end{multicols}
 \end{large}
 
+\vspace{-0.34cm}
+
 <!-- TEACHING : 2ND BULLET -->
 \begin{large}
   {\bf Teaching Assistant}
@@ -273,14 +276,21 @@ format:
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}Florida Gulf Coast University Seminar Series\end{flushleft}
+    \begin{flushleft}University of Georgia (Sports Management)\end{flushleft}
+    \begin{flushright}Spring 2024\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Florida Gulf Coast University (Economics)\end{flushleft}
     \begin{flushright}Spring 2023\end{flushright}
   \end{multicols}
   
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}Vanderbilt University LGBT Policy Lab\end{flushleft}
+    \begin{flushleft}Vanderbilt University (LGBTQ+ Policy Lab)\end{flushleft}
     \begin{flushright}Fall 2020\end{flushright}
   \end{multicols}
 \end{large}
@@ -391,7 +401,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 * **Referee** - Review of the Economics of the Household, Contemporary Economic Policy (3x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
-* **Professional** - AEA CSQIEP Social Networking and Activities Committee
+* **Professional** - AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 
 \vspace{5pt}
 
