@@ -26,7 +26,7 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}\href{mailto:joshua.martin@vanderbilt.edu}{joshua.martin@vanderbilt.edu} | \href{https://joshmartinecon.github.io}{\includegraphics[width=0.15in]{globe.png}} | \href{https://twitter.com/JoshMartinEcon}{\includegraphics[width=0.15in]{twitter-logo-1.png}} | \href{https://github.com/joshmartinecon}{\includegraphics[width=0.15in]{github.png}} | (713) 553-0108 | Updated: \today
 \end{center}
-\vspace{15pt}
+\vspace{10pt}
 
 <!-- EMPLOYMENT : 1ST BULLET-->
 \begin{large}{\bf EMPLOYMENT}
@@ -51,8 +51,6 @@ format:
     \begin{flushleft}\textit{Center for Research on Inequality \& Health}\end{flushleft}
     \begin{flushright}\end{flushright}
   \end{multicols}
-  
-  
   
   \vspace{-0.17cm}
   
@@ -86,7 +84,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}{\bf EDUCATION}
@@ -123,7 +121,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- FIELDS : 1ST BULLET-->
 \begin{large}{\bf FIELDS}
@@ -139,7 +137,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- RESEARCH : 1ST BULLET -->
 \begin{large}{\bf RESEARCH}
@@ -155,7 +153,7 @@ format:
   \end{enumerate}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- RESEARCH : 2ND BULLET -->
 \begin{large}{\bf Working Papers}
@@ -169,7 +167,7 @@ format:
   \end{enumerate}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- RESEARCH : 3RD BULLET -->
 \begin{large}{\bf Works in Progress}
@@ -182,7 +180,7 @@ format:
   \end{enumerate}
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 \hrule
 
@@ -230,7 +228,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{-0.34cm}
+\vspace{5pt}
 
 <!-- TEACHING : 2ND BULLET -->
 \begin{large}
@@ -256,12 +254,19 @@ format:
     \begin{flushleft}Intermediate Microeconomic Theory\end{flushleft}
     \begin{flushright}Fall 2019\end{flushright}
   \end{multicols}
+  
+  \vspace{-0.17cm}
+
+  \begin{multicols}{2}
+    \begin{flushleft}Principles of Macroeconomics\end{flushleft}
+    \begin{flushright}Spring 2019\end{flushright}
+  \end{multicols}
 
   \vspace{-0.17cm}
 
   \begin{multicols}{2}
-    \begin{flushleft}Principles of Microeconomics / Macroeconomics \end{flushleft}
-    \begin{flushright}Fall 2018 / Spring 2019\end{flushright}
+    \begin{flushleft}Principles of Microeconomics\end{flushleft}
+    \begin{flushright}Fall 2018\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -336,7 +341,7 @@ format:
 
 <!-- PRESENTATIONS : 3RD BULLET -->
 \begin{large}{\bf Conferences}
-  
+
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
@@ -349,6 +354,13 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}Southern Economic Association Meeting\end{flushleft}
     \begin{flushright}2021-Present\end{flushright}
+  \end{multicols}
+  
+  \vspace{-0.17cm}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Association of Policy Analysis \& Management \end{flushleft}
+    \begin{flushright}2022-Present\end{flushright}
   \end{multicols}
   
   \vspace{-0.17cm}
@@ -404,6 +416,8 @@ format:
 * **Professional** - AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 
 \vspace{5pt}
+
+\pagebreak
 
 <!-- REFERENCES : 1ST BULLET -->
 \begin{large}{\bf REFERENCES}
