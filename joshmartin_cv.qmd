@@ -26,11 +26,11 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}\href{mailto:joshua.martin@vanderbilt.edu}{joshua.martin@vanderbilt.edu} | \href{https://joshmartinecon.github.io}{\includegraphics[width=0.15in]{globe.png}} | \href{https://twitter.com/JoshMartinEcon}{\includegraphics[width=0.15in]{twitter-logo-1.png}} | \href{https://github.com/joshmartinecon}{\includegraphics[width=0.15in]{github.png}} | (713) 553-0108 | Updated: \today
 \end{center}
-\vspace{10pt}
+\vspace{0.25cm}
 
 <!-- EMPLOYMENT : 1ST BULLET-->
 \begin{large}{\bf EMPLOYMENT}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   
   \begin{multicols}{2}
@@ -60,7 +60,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- EMPLOYMENT : 2ND BULLET -->
 \begin{large}
@@ -84,11 +84,11 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}{\bf EDUCATION}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   
   \begin{multicols}{2}
@@ -104,7 +104,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
@@ -121,39 +121,40 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- FIELDS : 1ST BULLET-->
 \begin{large}{\bf FIELDS}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   {\bf Applied Microeconomics}
   
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Primary}: Labor, Health \& Household \end{flushleft}
-    \begin{flushright}\textit{Secondary}: Discrimination, Urban \& Sports \end{flushright}
+    \begin{flushleft}\textit{Primary}: Labor, Household \& Urban \end{flushleft}
+    \begin{flushright}\textit{Secondary}: Discrimination, Health \& Sports \end{flushright}
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- RESEARCH : 1ST BULLET -->
 \begin{large}{\bf RESEARCH}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   {\bf Publications}
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+   \item Christopher S. Carpenter, {\bf Joshua C. Martin} and Hasan Shahid (2024). Sexual Orientation, Sexual Attraction, and Income, Forthcoming in the \textit{Journal of Economics, Race \& Policy}.
     \item  Alexander Cardazzi, {\bf Joshua C. Martin} and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
-    \item Ben Luikart, Joshua C. Hall \& {\bf Joshua C. Martin} (2022) \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
-    \item {\bf Joshua C. Martin} and Joshua C. Hall (2020)  \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
+    \item Ben Luikart, Joshua C. Hall \& {\bf Joshua C. Martin} (2022). \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
+    \item {\bf Joshua C. Martin} and Joshua C. Hall (2020). \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
   \end{enumerate}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- RESEARCH : 2ND BULLET -->
 \begin{large}{\bf Working Papers}
@@ -162,25 +163,24 @@ format:
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
     \item $[$\textbf{Under Review}$]$ \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation} (with Zachary Rodriguez)
     \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
-    \item $[$\textbf{Under Review}$]$ Sexual Orientation, Sexual Attraction, and Income (with Christopher S. Carpenter and Hasan Shahid)
-    \item \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic}
   \end{enumerate}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 <!-- RESEARCH : 3RD BULLET -->
 \begin{large}{\bf Works in Progress}
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item Peer Health Shocks, Opportunity Costs, and Retirement Decisions: Evidence from Professional Athletes \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{(Previous Version)}
+    \item The Impact of Impacts: Peer Health Shocks, Opportunity Costs, and Labor Supply \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{(Previous Version)}
+    \item Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{(Previous Version)}
     \item Do Childcare Costs Reduce Fertility? Evidence from Same-Sex Marriage
     \item Chasing Rainbows: Social Acceptance \& Housing-Price Premia in Gayborhoods (with João Tampellini)
   \end{enumerate}
 \end{large}
 
-\vspace{5pt}
+\vspace{0.1cm}
 
 \hrule
 
@@ -188,7 +188,7 @@ format:
 
 <!-- TEACHING : 1ST BULLET -->
 \begin{large}{\bf TEACHING}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   {\bf Instructor of Record}
   
@@ -227,8 +227,6 @@ format:
     \begin{flushright}(8x) Spring 2022-Spring 2023\end{flushright}
   \end{multicols}
 \end{large}
-
-\vspace{5pt}
 
 <!-- TEACHING : 2ND BULLET -->
 \begin{large}
@@ -270,13 +268,16 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{5pt}
-
 <!-- PRESENTATIONS : 1ST BULLET -->
 \begin{large}{\bf PRESENTATIONS}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
   {\bf Invited Talks}
+  
+  \begin{multicols}{2}
+    \begin{flushleft}Lafayette College (Economics)\end{flushleft}
+    \begin{flushright}2024/2025\end{flushright}
+  \end{multicols}
   
   \vspace{-0.17cm}
   
@@ -302,41 +303,11 @@ format:
 
 <!-- PRESENTATIONS : 2ND BULLET -->
 \begin{large}{\bf Workshops}
-  
+
   \vspace{-0.17cm}
+
+  \textit{Southeastern Micro Labor Workshop} (Spring 2024); \textit{Discrimination and Diversity Workshop} (Summer 2023); \textit{Public Policy \& Child Well-Being} (Spring 2023); \textit{Economic Demography} (Spring 2023); \textit{AEA’s Economics of LGBTQ+ Individuals} (Spring 2021), \textit{SOGI Economics Early Career Workshop} (Fall 2020)
   
-  \begin{multicols}{2}
-    \begin{flushleft}Discrimination and Diversity Workshop\end{flushleft}
-    \begin{flushright}Summer 2023\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Public Policy \& Child Well-Being\end{flushleft}
-    \begin{flushright}Spring 2023\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Economic Demography\end{flushleft}
-    \begin{flushright}Spring 2023\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}AEA’s Economics of LGBTQ+ Individuals\end{flushleft}
-    \begin{flushright}Spring 2021\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}SOGI Economics Early Career Workshop\end{flushleft}
-    \begin{flushright}Fall 2020\end{flushright}
-  \end{multicols}
 \end{large}
 
 <!-- PRESENTATIONS : 3RD BULLET -->
@@ -344,84 +315,30 @@ format:
 
   \vspace{-0.17cm}
   
-  \begin{multicols}{2}
-    \begin{flushleft}American Society of Health Economists\end{flushleft}
-    \begin{flushright}2021-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Southern Economic Association Meeting\end{flushleft}
-    \begin{flushright}2021-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Association of Policy Analysis \& Management \end{flushleft}
-    \begin{flushright}2022-Present\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}NBER Economics of Health Fall Meeting\end{flushleft}
-    \begin{flushright}2023\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Public Choice Society\end{flushleft}
-    \begin{flushright}2021-2022\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Association of Private Enterprise \& Education\end{flushleft}
-    \begin{flushright}2022\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Society of the Economics of the Household\end{flushleft}
-    \begin{flushright}2021\end{flushright}
-  \end{multicols}
-\end{large}
+  \textit{Western Economic Association} (2024-Present); \textit{American Society of Health Economists} (2021-Present); \textit{Southern Economic Association Meeting} (2021-Present); \textit{Association of Policy Analysis \& Management} (2022-Present); \textit{NBER Economics of Health} (2023-Present); \textit{Public Choice Society} (2021-2022); \textit{Association of Private Enterprise \& Education} (2022); \textit{Society of the Economics of the Household} (2021)
 
-\vspace{5pt}
+\end{large}
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
 \end{large}
-\vspace{-0.16cm}
-* **Programming Languages** - *proficient:* R, GIS, LaTex; *intermediate:* Git, Python, Matlab, Stata
+* **Programming Languages** - *proficient:* R, GIS, LaTex, HTML; *intermediate:* Git, Python, Matlab, Stata
 * **Human Languages** - *proficient:* English; *intermediate:* French
 * **Skills** - *proficient:* Web Scraping; *intermediate:* Text Analysis
 
-\vspace{5pt}
-
 <!-- SERVICE -->
 \begin{large}{\bf SERVICE}
-  \vspace{3pt}
+  \vspace{0.1cm}
   \hrule
 \end{large}
-\vspace{-0.16cm}
 * **Referee** - Review of the Economics of the Household, Contemporary Economic Policy (3x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services Research
 * **Professional** - AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 
-\vspace{5pt}
-
-\pagebreak
-
 <!-- REFERENCES : 1ST BULLET -->
 \begin{large}{\bf REFERENCES}
-  \vspace{3pt}
+\vspace{0.1cm}
   \hrule
   
   \begin{multicols}{2}
@@ -447,7 +364,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{2.5pt}
+\vspace{0.1cm}
 
 <!-- REFERENCES : 2ND BULLET -->
 \begin{large}
@@ -474,7 +391,7 @@ format:
   \end{multicols}
 \end{large}
 
-\vspace{2.5pt}
+\vspace{0.1cm}
 
 <!-- REFERENCES : 3ND BULLET -->
 \begin{large}
