@@ -133,7 +133,7 @@ format:
   
   \begin{multicols}{2}
     \begin{flushleft}\textit{Primary}: Labor, Household \& Urban \end{flushleft}
-    \begin{flushright}\textit{Secondary}: Discrimination, Health \& Sports \end{flushright}
+    \begin{flushright}\textit{Secondary}: Health, Sports \& Education \end{flushright}
   \end{multicols}
 \end{large}
 
@@ -147,10 +147,10 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-   \item Christopher S. Carpenter, {\bf Joshua C. Martin} and Hasan Shahid (2024). Sexual Orientation, Sexual Attraction, and Income, Forthcoming in the \textit{Journal of Economics, Race \& Policy}.
-    \item  Alexander Cardazzi, {\bf Joshua C. Martin} and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
-    \item Ben Luikart, Joshua C. Hall \& {\bf Joshua C. Martin} (2022). \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
-    \item {\bf Joshua C. Martin} and Joshua C. Hall (2020). \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
+   \item Christopher S. Carpenter, Joshua C. Martin and Hasan Shahid (2024). Sexual Orientation, Sexual Attraction, and Income, Forthcoming in the \textit{Journal of Economics, Race \& Policy}.
+    \item  Alexander Cardazzi, Joshua C. Martin and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
+    \item Ben Luikart, Joshua C. Hall \& Joshua C. Martin (2022). \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
+    \item Joshua C. Martin and Joshua C. Hall (2020). \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
   \end{enumerate}
 \end{large}
 
@@ -161,8 +161,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item $[$\textbf{Under Review}$]$ \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/ssm%20adoptions.pdf}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation} (with Zachary Rodriguez)
-    \item $[$\textbf{Under Review}$]$ Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance (with Clay Collins)
+    \item \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307175}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation} \\ (with Zachary Rodriguez) $[$Under Review$]$
+    \item Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance \\ (with Clay Collins) $[$Under Review$]$  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
   \end{enumerate}
 \end{large}
 
@@ -173,10 +173,10 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item The Impact of Impacts: Peer Health Shocks, Opportunity Costs, and Labor Supply \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/cte%20and%20retirement.pdf}{(Previous Version)}
-    \item Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic \href{https://github.com/joshmartinecon/joshmartinecon.github.io/blob/main/research/working%20papers/school%20reopenings.pdf}{(Previous Version)}
-    \item Do Childcare Costs Reduce Fertility? Evidence from Same-Sex Marriage
-    \item Chasing Rainbows: Social Acceptance \& Housing-Price Premia in Gayborhoods (with João Tampellini)
+    \item The Impact of Impacts: Peer Health Shocks and Labor Supply  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Do Childcare Costs Reduce Adoptions? Evidence from Same-Sex Marriage \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods \href{https://joshmartinecon.github.io/research.html}{[Abstract]} \\ (with João Tampellini) 
   \end{enumerate}
 \end{large}
 
@@ -274,31 +274,10 @@ format:
   \hrule
   {\bf Invited Talks}
   
-  \begin{multicols}{2}
-    \begin{flushleft}Lafayette College (Economics)\end{flushleft}
-    \begin{flushright}2024/2025\end{flushright}
-  \end{multicols}
-  
   \vspace{-0.17cm}
   
-  \begin{multicols}{2}
-    \begin{flushleft}University of Georgia (Sports Management)\end{flushleft}
-    \begin{flushright}Spring 2024\end{flushright}
-  \end{multicols}
+  \textit{Lafayette College Department of Economics} (Fall 2024); \textit{University of Georgia Department of Sports Management \& Policy} (Spring 2024); \textit{Florida Gulf Coast University Department of Economics} (Spring 2023); \textit{Vanderbilt University' LGBTQ+ Policy Lab} (Fall 2020)
   
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Florida Gulf Coast University (Economics)\end{flushleft}
-    \begin{flushright}Spring 2023\end{flushright}
-  \end{multicols}
-  
-  \vspace{-0.17cm}
-  
-  \begin{multicols}{2}
-    \begin{flushleft}Vanderbilt University (LGBTQ+ Policy Lab)\end{flushleft}
-    \begin{flushright}Fall 2020\end{flushright}
-  \end{multicols}
 \end{large}
 
 <!-- PRESENTATIONS : 2ND BULLET -->
@@ -340,6 +319,8 @@ format:
 \begin{large}{\bf REFERENCES}
 \vspace{0.1cm}
   \hrule
+  
+  \vspace{0.1cm}
   
   \begin{multicols}{2}
     \centering
