@@ -132,8 +132,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Primary}: Labor, Household \& Urban \end{flushleft}
-    \begin{flushright}\textit{Secondary}: Health, Sports \& Education \end{flushright}
+    \begin{flushleft}\textit{Primary}: Labor, Household \end{flushleft}
+    \begin{flushright}\textit{Secondary}: Health, Urban, Public Choice \end{flushright}
   \end{multicols}
 \end{large}
 
@@ -147,7 +147,8 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-   \item Christopher S. Carpenter, Joshua C. Martin and Hasan Shahid (2024). Sexual Orientation, Sexual Attraction, and Income, Forthcoming in the \textit{Journal of Economics, Race \& Policy}.
+  
+   \item Christopher S. Carpenter, Joshua C. Martin and Hasan Shahid (2024). \href{https://doi.org/10.1007/s41996-024-00149-z}{Sexual Orientation, Sexual Attraction, and Income}, \textit{Journal of Economics, Race \& Policy}.
     \item  Alexander Cardazzi, Joshua C. Martin and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
     \item Ben Luikart, Joshua C. Hall \& Joshua C. Martin (2022). \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
     \item Joshua C. Martin and Joshua C. Hall (2020). \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
@@ -173,10 +174,10 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item The Impact of Impacts: Peer Health Shocks and Labor Supply  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
-    \item Spatial Endogeniety \& School Reopenings during the COVID-19 Pandemic \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
-    \item Do Childcare Costs Reduce Adoptions? Evidence from Same-Sex Marriage \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
-    \item Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods \href{https://joshmartinecon.github.io/research.html}{[Abstract]} \\ (with João Tampellini) 
+    \item Peer Health Shocks and Labor Supply  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Spatial Endogenity and Learning Modalities during the COVID-19 Pandemic \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods \href{https://joshmartinecon.github.io/research.html}{[Abstract]} \\ (with João Tampellini)
+    \item Do Childcare Costs Reduce Adoptions? Evidence from Marriage Equality \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
   \end{enumerate}
 \end{large}
 
