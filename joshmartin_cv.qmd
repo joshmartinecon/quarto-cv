@@ -304,9 +304,9 @@ format:
   \vspace{0.1cm}
   \hrule
 \end{large}
-* **Programming Languages** - *proficient:* R, GIS, LaTex, HTML; *intermediate:* Git, Python, Matlab, Stata
+* **Programming Languages** - *proficient:* R, GIS, LaTex, HTML; *intermediate:* Stata, Python, Git, Matlab
 * **Human Languages** - *proficient:* English; *intermediate:* French
-* **Skills** - *proficient:* Web Scraping; *intermediate:* Text Analysis
+* **Skills** - *proficient:* Causal Inference, Web Scraping, Parallel Computing; *intermediate:* Text Analysis
 
 <!-- SERVICE -->
 \begin{large}{\bf SERVICE}
