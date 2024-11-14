@@ -48,14 +48,14 @@ format:
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Center for Research on Inequality \& Health}\end{flushleft}
+    \begin{flushleft}\textit{Dept. of Economics, LGBTQ Policy Lab}\end{flushleft}
     \begin{flushright}\end{flushright}
   \end{multicols}
   
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Dept. of Economics, LGBTQ Policy Lab}\end{flushleft}
+    \begin{flushleft}\textit{Center for Research on Inequality \& Health}\end{flushleft}
     \begin{flushright}\end{flushright}
   \end{multicols}
 \end{large}
@@ -116,7 +116,7 @@ format:
   \vspace{-0.17cm}
   
   \begin{multicols}{2}
-    \begin{flushleft}B.S. in Economics\end{flushleft}
+    \begin{flushleft}B.S. in Economics, \textit{Phi Beta Kappa}\end{flushleft}
     \begin{flushright}2013-2017\end{flushright}
   \end{multicols}
 \end{large}
@@ -124,16 +124,12 @@ format:
 \vspace{0.1cm}
 
 <!-- FIELDS : 1ST BULLET-->
-\begin{large}{\bf FIELDS}
+\begin{large}{\bf RESEARCH FIELDS}
   \vspace{0.1cm}
   \hrule
-  {\bf Applied Microeconomics}
-  
-  \vspace{-0.17cm}
-  
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Primary}: Labor, Household \end{flushleft}
-    \begin{flushright}\textit{Secondary}: Health, Urban, Public Choice \end{flushright}
+    \begin{flushleft}{\bf Applied Microeconomics}\end{flushleft}
+    \begin{flushright}Labor, Health, Urban, Household, Sports\end{flushright}
   \end{multicols}
 \end{large}
 
@@ -148,7 +144,7 @@ format:
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
   
-   \item Christopher S. Carpenter, Joshua C. Martin and Hasan Shahid (2024). \href{https://doi.org/10.1007/s41996-024-00149-z}{Sexual Orientation, Sexual Attraction, and Income}, \textit{Journal of Economics, Race \& Policy}.
+   \item Christopher S. Carpenter, Joshua C. Martin and Hasan Shahid (2024). \href{https://doi.org/10.1007/s41996-024-00149-z}{Sexual Orientation, Sexual Attraction, and Income}, \textit{Journal of Economics, Race \& Policy}. Forthcoming.
     \item  Alexander Cardazzi, Joshua C. Martin and Zachary Rodriguez (2023). \href{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}, \textit{Health Economics}, 32(9), 2047–2079.
     \item Ben Luikart, Joshua C. Hall \& Joshua C. Martin (2022). \href{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}, \textit{Journal of School Choice}, 17(3), 439-447.
     \item Joshua C. Martin and Joshua C. Hall (2020). \href{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}, \textit{Economies} (8)4: 89.
@@ -162,8 +158,9 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
+    \item \href{https://nbviewer.org/github/joshmartinecon/joshmartinecon.github.io/blob/main/Peer%20Health%20Shocks%20and%20Labor%20Supply.pdf}{Peer Health Shocks and Labor Supply} [Job Market Paper]
     \item \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307175}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation} \\ (with Zachary Rodriguez) $[$Under Review$]$
-    \item Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance \\ (with Clay Collins) $[$Under Review$]$  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
+    \item Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance \\ (with Clay Collins) $[$Under Review$]$
   \end{enumerate}
 \end{large}
 
@@ -174,7 +171,6 @@ format:
   \vspace{-0.17cm}
   
   \begin{enumerate}[leftmargin=!,labelindent=5pt,itemindent=-15pt]
-    \item Peer Health Shocks and Labor Supply  \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
     \item Spatial Endogenity and Learning Modalities during the COVID-19 Pandemic \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
     \item Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods \href{https://joshmartinecon.github.io/research.html}{[Abstract]} \\ (with João Tampellini)
     \item Do Childcare Costs Reduce Adoptions? Evidence from Marriage Equality \href{https://joshmartinecon.github.io/research.html}{[Abstract]}
@@ -229,6 +225,8 @@ format:
   \end{multicols}
 \end{large}
 
+\vspace{-0.1cm}
+
 <!-- TEACHING : 2ND BULLET -->
 \begin{large}
   {\bf Teaching Assistant}
@@ -277,7 +275,7 @@ format:
   
   \vspace{-0.17cm}
   
-  \textit{Lafayette College Department of Economics} (Fall 2024); \textit{University of Georgia Department of Sports Management \& Policy} (Spring 2024); \textit{Florida Gulf Coast University Department of Economics} (Spring 2023); \textit{Vanderbilt University' LGBTQ+ Policy Lab} (Fall 2020)
+  \textit{Lafayette College; Department of Economics} (Fall 2024); \textit{Vanderbilt University; Department of Leadership, Policy, and Organizations} (Fall 2024);  \textit{University of Georgia; Department of Sports Management \& Policy} (Spring 2024); \textit{Florida Gulf Coast University; Department of Economics} (Spring 2023); \textit{Vanderbilt University; LGBTQ+ Policy Lab} (Fall 2020)
   
 \end{large}
 
@@ -286,7 +284,7 @@ format:
 
   \vspace{-0.17cm}
 
-  \textit{Southeastern Micro Labor Workshop} (Spring 2024); \textit{Discrimination and Diversity Workshop} (Summer 2023); \textit{Public Policy \& Child Well-Being} (Spring 2023); \textit{Economic Demography} (Spring 2023); \textit{AEA’s Economics of LGBTQ+ Individuals} (Spring 2021), \textit{SOGI Economics Early Career Workshop} (Fall 2020)
+  \textit{Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic} (Fall 2024); \textit{Southeastern Micro Labor Workshop} (Spring 2024); \textit{Discrimination and Diversity Workshop} (Summer 2023); \textit{Public Policy \& Child Well-Being} (Spring 2023); \textit{Economic Demography} (Spring 2023); \textit{AEA’s Economics of LGBTQ+ Individuals} (Spring 2021), \textit{SOGI Economics Early Career Workshop} (Fall 2020)
   
 \end{large}
 
@@ -306,7 +304,7 @@ format:
 \end{large}
 * **Programming Languages** - *proficient:* R, GIS, LaTex, HTML; *intermediate:* Stata, Python, Git, Matlab
 * **Human Languages** - *proficient:* English; *intermediate:* French
-* **Skills** - *proficient:* Causal Inference, Web Scraping, Parallel Computing; *intermediate:* Text Analysis
+* **Skills** - *proficient:* Causal Inference, Web Scraping; *intermediate:* Text Analysis, Parallel Comp., Machine Learning
 
 <!-- SERVICE -->
 \begin{large}{\bf SERVICE}
