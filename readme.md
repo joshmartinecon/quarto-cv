@@ -1,10 +1,10 @@
 # CV Template
 
-A [Quarto](https://quarto.org/) template for compiling an academic CV. Borrowed from chunks of code found online. Searching for original author(s) to give credit where it is due.
+A [Quarto](https://quarto.org/) template for compiling an academic CV. Work in progress.
 
 ## Example
 
-Below is an example of my own personal CV as of 10/23/23. Click either of the pictures to go an updated version.
+Below is an example of my own personal CV as of 1/15/25. Click either of the pictures to go an updated version.
 
 ### Page 1
 
