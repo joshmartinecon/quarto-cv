@@ -197,20 +197,20 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 \course{Principles of Microeconomics}{Spring 2021, Summer 2020}
 \course{Markets \& Society}{(8x) Spring 2022-Spring 2023}
 
-\cvsubsection{Teaching Assistant}
+<!-- \cvsubsection{Teaching Assistant} -->
 
-\course{Advanced Economic Theory I (PhD)}{Fall 2021}
-\course{Advanced Economic Theory II (PhD)}{Spring 2020 \& 2021}
-\course{Intermediate Microeconomic Theory}{Fall 2019}
-\course{Principles of Macroeconomics}{Spring 2019}
-\course{Principles of Microeconomics}{Fall 2018}
+<!-- \course{Advanced Economic Theory I (PhD)}{Fall 2021} -->
+<!-- \course{Advanced Economic Theory II (PhD)}{Spring 2020 \& 2021} -->
+<!-- \course{Intermediate Microeconomic Theory}{Fall 2019} -->
+<!-- \course{Principles of Macroeconomics}{Spring 2019} -->
+<!-- \course{Principles of Microeconomics}{Fall 2018} -->
 
 <!-- Presentations -->
 \cvsection{External Presentations}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{2025}: American Society of Health Economists; Southeastern Micro Labor Workshop
+  \textbf{2025}: Society of Labor Economists; American Society of Health Economists; Southeastern Micro Labor Workshop
 
   \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association
 
@@ -228,7 +228,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{Invited Referee}: Review of the Economics of the Household, Contemporary Economic Policy (3x), Public Finance Review, Journal of Regional Analysis \& Policy (2x), Journal of Economics \& Finance Education, BMC Health Services
+  \textbf{Invited Referee}: Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy (3x); Public Finance Review; Journal of Regional Analysis \& Policy (2x); Journal of Economics \& Finance Education; BMC Health Services
 Research
   
   \textbf{Service}: AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
@@ -244,6 +244,3 @@ Research
 \profref{mailto:joshua.hall@mail.wvu.edu}{Joshua Hall}{Milan Puskar Dean and Professor of Economics}{West Virginia University}
 \profref{mailto:marcus.o.dillender@vanderbilt.edu}{Marcus Dillender}{Asst. Professor of Economics}{Vanderbilt University}
 \end{multicols}
-
-<!-- \profref{mailto:bmccanno@iwu.edu}{Bryan McCannon}{Dean, Professor of Economics}{Illinois Wesleyan University} -->
-<!-- \profref{mailto:brian.beach@vanderbilt.edu}{Brian Beach}{Associate Professor of Economics}{Vanderbilt University} -->
