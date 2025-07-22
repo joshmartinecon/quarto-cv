@@ -3,10 +3,10 @@ format:
   pdf:
     documentclass: article
     geometry:
-      - top=15mm
-      - left=15mm
-      - right=15mm
-      - bottom=15mm
+      - top=12.5mm
+      - left=12.5mm
+      - right=12.5mm
+      - bottom=12.5mm
       - heightrounded
     colorlinks: true
     fontsize: 11pt
@@ -185,9 +185,9 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 <!-- \jarticle{}{Spatial Endogenity and Learning Modalities during the COVID-19 Pandemic}{Work in Progress}{} -->
 
-\jarticle{}{Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods}{João Tampellini}{Work in Progress}{}
+<!-- \jarticle{}{Chasing Rainbows: Social Acceptance \& Housing Prices in Gayborhoods}{João Tampellini}{Work in Progress}{} -->
 
-\jarticle{}{Do Childcare Costs Reduce Adoptions? Evidence from Marriage Equality}{}{Work in Progress}{}
+<!-- \jarticle{}{Do Childcare Costs Reduce Adoptions? Evidence from Marriage Equality}{}{Work in Progress}{} -->
 
 <!-- Teaching -->
 \cvsection{Teaching}
@@ -213,15 +213,15 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{2025}: Society of Labor Economists; American Society of Health Economists; Southeastern Micro Labor Workshop; Discrimination \& Diversity Workshop
+  \textbf{2025}: Union College (\textit{Dept. of Economics}); \textit{WERISE} Conference (\textit{Boston University Women in Economics Group}); Society of Labor Economists Conference; American Society of Health Economists Conference; Southeastern Micro Labor Workshop; Southeastern Health Economics Study Group Conference; Discrimination \& Diversity Workshop
 
-  \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association
+  \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association Conference
 
-  \textbf{2023}: Florida Gulf Coast University (\textit{Dept. of Economics}); Discrimination \& Diversity Workshop; Economic Demography; NBER Economics of Health; Public Policy \& Child Well-Being
+  \textbf{2023}: Florida Gulf Coast University (\textit{Dept. of Economics}); Discrimination \& Diversity Workshop; Economic Demography Workshop; NBER Economics of Health; Public Policy \& Child Well-Being Conference
 
-  \textbf{2022}: American Society of Health Economists; Association of Policy Analysis \& Management; Association of Private Enterprise \& Education; Public Choice Society; Southern Economic Association
+  \textbf{2022}: American Society of Health Economists Conference; Association of Policy Analysis \& Management Conference; Association of Private Enterprise \& Education Conference; Public Choice Society Conference; Southern Economic Association Conference
 
-  \textbf{2021}: AEA’s Economics of LGBTQ+ Individuals; American Society of Health Economists; Society of the Economics of the Household; Southern Economic Association
+  \textbf{2021}: AEA’s Economics of LGBTQ+ Individuals Seminar; American Society of Health Economists Conference; Society of the Economics of the Household Conference; Southern Economic Association Conference
 
   \textbf{2020}: Vanderbilt University (\textit{LGBTQ+ Policy Lab}); SOGI Economics Early Career Workshop
 \end{adjustwidth}
@@ -231,7 +231,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{Invited Referee}: Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy; Public Finance Review; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
+  \textbf{Invited Referee}: Journal of Economic Geography; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy; Public Finance Review; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
   
   \textbf{Service}: AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 \end{adjustwidth}
