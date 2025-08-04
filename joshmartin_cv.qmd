@@ -126,16 +126,16 @@ format:
 
 \begin{adjustwidth}{0.5cm}{0pt}
 \begin{minipage}[t]{0.5\textwidth}
-Vanderbilt University\\
+University of West Georgia\\
 Department of Economics\\
-2301 Vanderbilt Place\\
-Nashville, TN 37235
+338 Roy Richards Sr Hall\\
+Carrollton, GA 30118
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.5\textwidth}
 Phone: (713) 553-0108\\
 Citizenship: United States\\
-Email: \href{mailto:joshua.martin@vanderbilt.edu}{joshua.martin@vanderbilt.edu}\\
+Email: \href{mailto:joshua@westga.edu}{joshua@westga.edu}\\
 Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 \end{minipage}
 \vspace{0.2cm}
