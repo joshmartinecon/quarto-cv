@@ -193,12 +193,12 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 \cvsection{Teaching}
 
 \cvsubsection{Instructor of Record}
-\course{Applied Economic Research}{Fall 2021}
-\course{Urban \& Regional Economics}{Spring 2022}
-\course{Statistics for Business II}{Fall 2025}
-\course{Intermediate Microeconomic Theory}{Fall 2021}
-\course{Principles of Microeconomics}{Fall 2025, Spring 2021, Summer 2020}
-\course{Markets \& Society}{(8x) Spring 2022-Spring 2023}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON482_syllabus.pdf}{Applied Economic Research}}{Fall 2021}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2022Spring_ECO490_syllabus.pdf}{Urban \& Regional Economics}}{Spring 2022}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON3406_syllabus.pdf}{Statistics for Business II}}{Fall 2025}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON301_syllabus.pdf}{Intermediate Microeconomic Theory}}{Fall 2021}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON2106_syllabus.pdf}{Principles of Microeconomics}}{Fall 2025, Spring 2021, Summer 2020}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2023Spring_ECO110_syllabus.pdf}{Markets \& Society}}{(8x) Spring 2022-Spring 2023}
 
 <!-- \cvsubsection{Teaching Assistant} -->
 
