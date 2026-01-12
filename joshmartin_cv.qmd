@@ -160,7 +160,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 <!-- RESEARCH INTERESTS -->
 \cvsection{Research Fields}
 
-\cvrole{\textbf{Applied Microeconomics}}{Primary: Labor, Health}{\color{white} .}{Secondary: Urban, Household, Sports}{}
+\cvrole{\textbf{Applied Microeconomics}}{Primary: Labor, Health}{\color{white} .}{Secondary: Sports, Urban}{}
 
 <!-- Research -->
 \cvsection{Research}
@@ -217,7 +217,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
   \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association Conference
 
-  \textbf{2023}: Florida Gulf Coast University (\textit{Dept. of Economics}); Discrimination \& Diversity Workshop; Economic Demography Workshop; NBER Economics of Health; Public Policy \& Child Well-Being Conference
+  \textbf{2023}: Florida Gulf Coast University (\textit{Dept. of Economics}); Discrimination \& Diversity Workshop; Economic Demography Workshop; Public Policy \& Child Well-Being Conference
 
   \textbf{2022}: American Society of Health Economists Conference; Association of Policy Analysis \& Management Conference; Association of Private Enterprise \& Education Conference; Public Choice Society Conference; Southern Economic Association Conference
 
