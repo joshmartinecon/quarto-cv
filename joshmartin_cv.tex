@@ -1,0 +1,380 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  11pt,
+]{article}
+\usepackage{xcolor}
+\usepackage[top=12.5mm,left=12.5mm,right=12.5mm,bottom=12.5mm,heightrounded]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{xifthen}
+\usepackage{changepage}
+\usepackage{xcolor}
+
+\pagestyle{empty}
+
+\newcommand{\cvsection}[1]{
+  {\Large \textbf{#1}}
+  \vspace{0.2cm}
+  \hrule
+  \vspace{-0.2cm}
+}
+
+\newcommand{\cvsubsection}[1]{
+  \vspace{0.2cm}
+  {\large \underline{#1}}
+}
+
+\newcommand{\cvrole}[5]{%
+  \par
+  \begin{adjustwidth}{0.5cm}{0pt}
+  \begingroup
+    % Make sure no extra spacing within this macro
+    \setlength{\parskip}{0pt}%
+    \setlength{\parindent}{0pt}%
+    \begin{multicols}{2}
+      \begin{flushleft}
+        #1\\
+        #3
+      \end{flushleft}
+      \begin{flushright}
+        #2\\
+        #4
+      \end{flushright}
+    \end{multicols}%
+    % Only insert spacing + line if #5 is NOT empty
+    \ifthenelse{\equal{#5}{}}%
+      {\vspace{-0.4cm}}%
+      {%
+        \vspace{-0.4cm}%
+        \textit{#5}%
+      }%
+  \endgroup
+  \end{adjustwidth}
+  \par
+  \vspace{0pt}
+}
+
+\newcommand{\jarticle}[5]{%
+  \hypersetup{hidelinks}
+  \par
+  \begin{adjustwidth}{0.5cm}{0pt} % Shift entire entry 0.5cm to the right
+    % Print title: hyperlink if URL (#1) provided, using \detokenize to handle special chars
+    \ifthenelse{\equal{#1}{}}%
+      {\textbf{#2}}%
+      {\textbf{\href{\detokenize{#1}}{#2}}}%
+    % Conditional coauthors: print only if #3 is non-empty
+    \ifthenelse{\equal{#3}{}}%
+      {}%
+      { (with #3)}%
+    \ %
+    % Print journal and conditionally the year on the same line
+    \ifthenelse{\equal{#5}{}}%
+      {%
+        \textit{#4}.%
+        \textcolor{white}{.}%
+      }{%
+        \textit{#4}, #5.%
+      }%
+  \end{adjustwidth}
+  \par
+}
+
+\newcommand{\course}[2]{%
+\vspace{-0.4cm}
+  \par
+  \begin{adjustwidth}{0.5cm}{0pt}
+  \begingroup
+    \setlength{\parskip}{0pt}%
+    \setlength{\parindent}{0pt}%
+    \begin{multicols}{2}
+      \begin{flushleft}
+        \textbf{#1}
+      \end{flushleft}
+      \begin{flushright}
+        #2
+      \end{flushright}
+    \end{multicols}%
+  \endgroup
+  \vspace{-0.4cm}
+  \end{adjustwidth}
+  \par
+}
+
+  \newcommand{\profref}[4]{%
+  \begin{center}
+    \hypersetup{hidelinks}%
+    \ifthenelse{\equal{#1}{}}%
+      {\textbf{#2}}%
+      {\textbf{\href{#1}{#2}}}%
+    \\ \textit{#3}%
+    \\ #4%
+    \end{center}
+  }%
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\author{}
+\date{}
+\begin{document}
+
+
+\begin{huge}{\bf Joshua C. Martin}\end{huge}
+
+\begin{adjustwidth}{0.5cm}{0pt}
+\begin{minipage}[t]{0.5\textwidth}
+University of West Georgia\\
+Department of Economics\\
+338 Roy Richards Sr Hall\\
+Carrollton, GA 30118
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.5\textwidth}
+Phone: (713) 553-0108\\
+Citizenship: United States\\
+Email: \href{mailto:joshua@westga.edu}{joshua@westga.edu}\\
+Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
+\end{minipage}
+\vspace{0.2cm}
+\end{adjustwidth}
+
+\cvsection{Academic Appointments and Affiliations}
+
+\cvrole{\textbf{Assistant Professor of Economics}}{Aug. 2025--Present}{University of West Georgia}{Carrollton, GA}{Dept. of Economics}
+
+\cvrole{\textbf{Postdoctoral Researcher}}{Jul. 2023--Jul. 2025}{Vanderbilt University}{Nashville, TN}{Dept. of Economics; LGBTQ+ Policy Lab; Center for Research on Inequality \& Health}
+
+\cvrole{\textbf{Visiting Assistant Professor} (while ABD)}{Jan. 2022 - May 2023}{Berry College}{Mt. Berry, GA}{Dept. of Accounting, Economics \& Finance}
+
+\cvsection{Education}
+
+\cvrole{\textbf{Ph.D. Economics}}{Aug. 2018 - Jun. 2023}{West Virginia University}{Morgantown, WV}{}
+
+\cvrole{\textbf{B.S. Economics} (\textit{Phi Beta Kappa})}{Aug. 2013 - May 2017}{Oklahoma State University}{Stillwater, OK}{}
+
+\cvsection{Research Fields}
+
+\cvrole{\textbf{Applied Microeconomics}}{Primary: Labor, Health}{\color{white} .}{Secondary: Sports, Urban}{}
+
+\cvsection{Research}
+
+\cvsubsection{Publications}
+
+\jarticle{https://doi.org/10.1007/s41996-024-00149-z}{Sexual Orientation, Sexual Attraction, and Income}{Christopher S. Carpenter and Hasan Shahid}{Journal of Economics, Race \& Policy}{2024}
+
+\jarticle{https://doi.org/10.1002/hec.4712}{Information Shocks and Celebrity Exposure: The Effect of “Magic” Johnson on AIDS Diagnoses and Mortality in the U.S.}{Alexander Cardazi and Zachary Rodriguez}{Health Economics}{2023}
+
+\jarticle{https://doi.org/10.1080/15582159.2022.2132589}{Determinants of Voting on Education Savings Accounts: Evidence from Tennessee}{Ben Luikart and Joshua C. Hall}{Journal of School Choice}{2022}
+
+\jarticle{https://doi.org/10.3390/economies8040089}{The Impact of the New York City Marathon on Hotel Demand}{Joshua C. Hall}{Economies}{2020}
+
+\cvsubsection{Working Papers}
+
+\jarticle{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307175}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation}{Zachary Rodriguez}{Revisions Requested at the \textit{Journal of Human Resources}}{}
+
+\jarticle{}{Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance}{Clay Collins}{Under Review}{}
+
+\jarticle{http://bit.ly/4fZ2sAL}{Peer Health Shocks and Labor Supply}{}{Working Paper}{}
+
+\cvsection{Teaching}
+
+\cvsubsection{Instructor of Record}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON482_syllabus.pdf}{Applied Economic Research}}{Fall 2021}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2022Spring_ECO490_syllabus.pdf}{Urban \& Regional Economics}}{Spring 2022}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON3406_syllabus.pdf}{Statistics for Business II}}{Fall 2025}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON301_syllabus.pdf}{Intermediate Microeconomic Theory}}{Fall 2021}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON2106_syllabus.pdf}{Principles of Microeconomics}}{Fall 2025, Spring 2021, Summer 2020}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2023Spring_ECO110_syllabus.pdf}{Markets \& Society}}{(8x) Spring 2022-Spring 2023}
+
+\cvsection{External Presentations}
+
+\vspace{0.2cm}
+\begin{adjustwidth}{0.5cm}{0pt}
+  \textbf{2025}: Union College (\textit{Dept. of Economics}); \textit{WERISE} Conference (\textit{Boston University Women in Economics Group}); Society of Labor Economists Conference; American Society of Health Economists Conference; Southeastern Micro Labor Workshop; Southeastern Health Economics Study Group Conference; Discrimination \& Diversity Workshop; Atlanta/Athens Health Economists Research Conference
+
+  \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association Conference
+
+  \textbf{2023}: Florida Gulf Coast University (\textit{Dept. of Economics}); Discrimination \& Diversity Workshop; Economic Demography Workshop; Public Policy \& Child Well-Being Conference
+
+  \textbf{2022}: American Society of Health Economists Conference; Association of Policy Analysis \& Management Conference; Association of Private Enterprise \& Education Conference; Public Choice Society Conference; Southern Economic Association Conference
+
+  \textbf{2021}: AEA’s Economics of LGBTQ+ Individuals Seminar; American Society of Health Economists Conference; Society of the Economics of the Household Conference; Southern Economic Association Conference
+
+  \textbf{2020}: Vanderbilt University (\textit{LGBTQ+ Policy Lab}); SOGI Economics Early Career Workshop
+\end{adjustwidth}
+
+\cvsection{Professional Activities}
+
+\vspace{0.2cm}
+\begin{adjustwidth}{0.5cm}{0pt}
+  \textbf{Invited Referee}: Journal of Economic Geography; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy; Public Finance Review; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
+  
+  \textbf{Service}: AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
+\end{adjustwidth}
+
+\cvsection{References}
+
+\vspace{0.2cm}
+\begin{multicols}{2}
+\profref{mailto:christopher.s.carpenter@vanderbilt.edu}{Kitt Carpenter}{E. Bronson Ingram Professor of Economics}{Vanderbilt University}
+\profref{mailto:brad.humphreys@mail.wvu.edu}{Brad Humphreys}{Professor of Economics}{West Virginia University}
+\profref{mailto:joshua.hall@mail.wvu.edu}{Joshua Hall}{Milan Puskar Dean and Professor of Economics}{West Virginia University}
+\profref{mailto:marcus.o.dillender@vanderbilt.edu}{Marcus Dillender}{Asst. Professor of Economics}{Vanderbilt University}
+\end{multicols}
+
+
+
+
+\end{document}

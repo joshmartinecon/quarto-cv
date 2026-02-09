@@ -213,7 +213,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{2025}: Union College (\textit{Dept. of Economics}); \textit{WERISE} Conference (\textit{Boston University Women in Economics Group}); Society of Labor Economists Conference; American Society of Health Economists Conference; Southeastern Micro Labor Workshop; Southeastern Health Economics Study Group Conference; Discrimination \& Diversity Workshop
+  \textbf{2025}: Union College (\textit{Dept. of Economics}); \textit{WERISE} Conference (\textit{Boston University Women in Economics Group}); Society of Labor Economists Conference; American Society of Health Economists Conference; Southeastern Micro Labor Workshop; Southeastern Health Economics Study Group Conference; Discrimination \& Diversity Workshop; Atlanta/Athens Health Economists Research Conference
 
   \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association Conference
 
