@@ -177,7 +177,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \cvsubsection{Working Papers}
 
-\jarticle{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307175}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation}{Zachary Rodriguez}{Revisions Requested at the \textit{Journal of Human Resources}}{}
+\jarticle{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307175}{The Effect of Same-Sex Marriage Legalization on Adoptions and Family Formation}{Zachary Rodriguez}{Revisions Submitted}{}
 
 \jarticle{}{Does Love Kill Speed? The Effect of Marriage on Formula One Driver Performance}{Clay Collins}{Under Review}{}
 
