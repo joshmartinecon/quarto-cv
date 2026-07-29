@@ -189,16 +189,18 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 <!-- \jarticle{}{Do Childcare Costs Reduce Adoptions? Evidence from Marriage Equality}{}{Work in Progress}{} -->
 
+\newpage
+
 <!-- Teaching -->
 \cvsection{Teaching}
 
 \cvsubsection{Instructor of Record}
 \course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON482_syllabus.pdf}{Applied Economic Research}}{Fall 2021}
 \course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2022Spring_ECO490_syllabus.pdf}{Urban \& Regional Economics}}{Spring 2022}
-\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON3406_syllabus.pdf}{Statistics for Business II}}{Fall 2025}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON3406_syllabus.pdf}{Statistics for Business II}}{(5x) Fall 2025-2026}
 \course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2021Fall_ECON301_syllabus.pdf}{Intermediate Microeconomic Theory}}{Fall 2021}
-\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON2106_syllabus.pdf}{Principles of Microeconomics}}{Fall 2025, Spring 2021, Summer 2020}
-\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2023Spring_ECO110_syllabus.pdf}{Markets \& Society}}{(8x) Spring 2022-Spring 2023}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2025Fall_ECON2106_syllabus.pdf}{Principles of Microeconomics}}{(3x) Fall 2025-2026, Spring 2021, Summer 2020}
+\course{\href{https://raw.githubusercontent.com/joshmartinecon/joshmartinecon.github.io/main/teaching/syllabi/2023Spring_ECO110_syllabus.pdf}{Markets \& Society}}{(8x) Spring 2022-2023}
 
 <!-- \cvsubsection{Teaching Assistant} -->
 
@@ -213,6 +215,8 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
+  \textbf{2026}: UMBC Sports Economics Conference; American Society of Health Economists Conference
+
   \textbf{2025}: Union College (\textit{Dept. of Economics}); \textit{WERISE} Conference (\textit{Boston University Women in Economics Group}); Society of Labor Economists Conference; American Society of Health Economists Conference; Southeastern Micro Labor Workshop; Southeastern Health Economics Study Group Conference; Discrimination \& Diversity Workshop; Atlanta/Athens Health Economists Research Conference
 
   \textbf{2024}: Lafayette College (\textit{Dept. of Economics}); University of Georgia (\textit{Dept. of Sports Management \& Policy}); Vanderbilt University (\textit{Dept. Department of Leadership, Policy, \& Organizations}); Southeastern Micro Labor Workshop; Workshop on the Econ. \& Crime Impacts of the Opiate Epidemic; Western Economic Association Conference
@@ -231,7 +235,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{Invited Referee}: Journal of Economic Geography; Health Economics; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy; Public Finance Review; Eastern Economic Journal; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
+  \textbf{Invited Referee}: Journal of Economic Geography; Health Economics; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Contemporary Economic Policy; Journal of Sports Economics; Public Finance Review; Eastern Economic Journal; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
   
   \textbf{Service}: AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 \end{adjustwidth}
