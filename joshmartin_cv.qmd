@@ -235,7 +235,7 @@ Homepage: \href{https://joshmartinecon.github.io/}{joshmartinecon.github.io}
 
 \vspace{0.2cm}
 \begin{adjustwidth}{0.5cm}{0pt}
-  \textbf{Invited Referee}: Journal of Economic Geography; Health Economics; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Economics \& Human Biology, Contemporary Economic Policy; Journal of Sports Economics; Public Finance Review; Eastern Economic Journal; Journal of Economics, Race \& Policy; Journal of Regional Analysis \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
+  \textbf{Invited Referee}: Journal of Economic Geography; Health Economics; Journal of Policy Analysis \& Management; Review of the Economics of the Household; Economics \& Human Biology, Contemporary Economic Policy; Journal of Sports Economics; Public Finance Review; Eastern Economic Journal; Journal of Economics, Race \& Policy; Journal of Regional Analysis (2x) \& Policy; Journal of Economics \& Finance Education; BMC Health Services Research
   
   \textbf{Service}: AEA Committee on the Status of LGBTQ+ Individuals in the Economics Profession (CSQIEP)
 \end{adjustwidth}
